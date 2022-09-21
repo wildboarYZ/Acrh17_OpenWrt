@@ -1,2 +1,1 @@
-PassWall+smartdns
-2022.9.3
+PassWall smartdns ipv6
