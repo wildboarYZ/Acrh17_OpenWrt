@@ -1,1 +1,2 @@
-PassWall smartdns ipv6
+PassWall smartdns frpc ipv6
+
